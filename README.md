@@ -20,4 +20,5 @@ Forgot to switch branch
 ## Changes Feature Git Practice branch
 Here!
 
-
+## GitHub Desktop Activity
+Add GitHub Desktop section
