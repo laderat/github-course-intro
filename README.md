@@ -1,3 +1,12 @@
 # github-course-intro
+## Personal Information
+Name: Theo
+Birthday: July 1_ , 200_
+
+## Role
+DIV2 - DIV2.2 - SD44
+
 ## About Me
 I am learning GitHub
+
+
